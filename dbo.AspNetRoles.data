@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[AspNetRoles] ([Id], [Name]) VALUES (N'8e23eed6-70e1-42c9-b190-460568a15e39', N'CanManageMovies')
